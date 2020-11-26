@@ -1,5 +1,3 @@
 # get_next_line
 
-## Progress
-
-### got 100, cause I forgot to change include path in bonus files.
+나중에서야 알았지만 getLine 함수를 구현한 것 같다
